@@ -1,5 +1,5 @@
 # LiveSplit.Murasame
-Nazo no Murasame Jou (The Mysterious Murasame Castle) LiveSplit component for use with FCEUX  
+Nazo no Murasame Jou (The Mysterious Murasame Castle) LiveSplit component.  
 
 -----
 
@@ -7,6 +7,10 @@ Nazo no Murasame Jou (The Mysterious Murasame Castle) LiveSplit component for us
 * Automatic timer start
 * Automatic splitting
 * Automatically reset splits
+
+### Supported Emulators
+* [FCEUX](http://www.fceux.com/web/home.html)
+* [puNES](https://github.com/punesemu/puNES/releases)
 
 ### Installation  
 1) Download the ASL script and move it to the *Components* folder in your LiveSplit directory
