@@ -21,4 +21,5 @@ Nazo no Murasame Jou (The Mysterious Murasame Castle) LiveSplit component.
 ### Contact  
 [Twitter](https://twitter.com/unrealcroissant)  
 [Twitch.tv](https://twitch.tv/unrealcroissant)  
+[UnrealCroissant#3359](https://discordapp.com/) on Discord  
 unrealcroissant @ [irc.speedrunslive.com](http://www.speedrunslive.com/channel/)
