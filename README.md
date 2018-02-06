@@ -14,9 +14,9 @@ Nazo no Murasame Jou (The Mysterious Murasame Castle) LiveSplit component.
 
 ### Installation  
 1) Download the ASL script and move it to the *Components* folder in your LiveSplit directory
-2) In LiveSplit, Edit Layout -> Add -> Control -> Scriptable Auto Splitter
-3) Set the path to the ASL file under Layout Settings -> Scriptable Auto Splitter
-4) Check the boxes for the feature you want to use or disable
+2) In LiveSplit, *Edit Layout -> Add -> Control -> Scriptable Auto Splitter*
+3) Set the path to the ASL file under *Layout Settings -> Scriptable Auto Splitter*
+4) Check the boxes for the features you want to use or disable
 
 ### Contact  
 [Twitter](https://twitter.com/unrealcroissant)  
