@@ -7,6 +7,7 @@ Nazo no Murasame Jou (The Mysterious Murasame Castle) LiveSplit component.
 * Automatic timer start
 * Automatic splitting
 * Automatically reset splits
+* Timer must be manually stopped on run completion. 
 
 ### Supported Emulators
 * [FCEUX](http://www.fceux.com/web/home.html)
