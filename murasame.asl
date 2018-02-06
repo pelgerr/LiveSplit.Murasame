@@ -1,6 +1,7 @@
 state ("fceux") {
   byte level_id : "fceux.exe", 0x00436B04, 0x788;
   byte timer : "fceux.exe", 0x00436B00, 0x668;
+  byte bossHealth : "fceux.exe", 0x007B1388, 0x4AB
 }
 
 state ("punes64") {
@@ -18,7 +19,7 @@ start {
 
 split {
 // Split when the current level ID changes
-  if (current.level_id != old.level_id) {
+  if (current.level_id != old.level_id || current.level_id == 10 && current.bossHealth >= 24) {
     return true;
   }
 }
